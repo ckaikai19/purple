@@ -10,7 +10,7 @@
 - Descriptive title
 
 
-[View depolyed project here](https://https://github.com/ckaikai19/purple)
+[View depolyed project here](https://ckaikai19.github.io/purple/)
 
 ---
 
